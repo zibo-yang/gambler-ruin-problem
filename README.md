@@ -1,4 +1,4 @@
-# gambler-ruin-problem
+# Formalization of Gambler's ruin problem
 In order to compile the codes, please install the Isabelle theorem prover and Archive of Formal Proofs(https://www.isa-afp.org/).
 
 This is the outcome of research internship supported by the ERC Advanced Grant ALEXANDRIA (Project GA 742178) funded by the
