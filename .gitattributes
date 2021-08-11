@@ -1,1 +1,3 @@
+docs/* linguist-documentation
+static/* linguist-vendored
 *.thy linguist-language=Isabelle
