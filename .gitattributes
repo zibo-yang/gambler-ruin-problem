@@ -1,3 +1,2 @@
-docs/* linguist-documentation
 output/**/* linguist-vendored
 *.thy linguist-language=Isabelle
